@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krllkrnv@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@kkorneev02-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kkorneev02)
 
+## Стек
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
