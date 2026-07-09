@@ -92,35 +92,6 @@ I also work with backend-related tasks in fullstack products: **Django REST Fram
 
 ---
 
-## Featured Projects
-
-### Snippet Space
-
-Pet project for storing and organizing code snippets.
-
-**Stack:** Vue, TypeScript  
-**Focus:** UI structure, auth/error handling, adaptive dark interface
-
-### Mindmap Service
-
-University fullstack project for working with mind maps.
-
-**Stack:** Vue, Python, Docker  
-**Focus:** frontend application, backend API and fullstack delivery context
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krllkrnv&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krllkrnv&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Open to frontend and fullstack roles  
